@@ -37,25 +37,9 @@ const table = document.querySelector("[data-table]");
 // Read   - GET
 // Update - PUT/PATCH
 // Delete - DELETE
+// fetch API.
 
-const listaClientes = () => {
-  const promise = new Promise((resolve, reject) => {
-    const http = new XMLHttpRequest();
-    http.open("GET", "http://localhost:3000/perfiles");
-
-    http.send();
-
-    http.onload = () => {
-      const response = JSON.parse(http.response);
-      if (http.status >= 400) {
-        reject(response);
-      } else {
-        resolve(response);
-      }
-    };
-  });
-  return promise;
-};
+const listaClientes = () =>fetch(" http://localhost:3000/perfil").then(repuesta => respuesta.json());
 
 listaClientes()
   .then((data) => {
