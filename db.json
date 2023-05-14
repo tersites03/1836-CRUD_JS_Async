@@ -4,6 +4,48 @@
       "nombre": "Christian",
       "email": "Christian@alura.com",
       "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "nombre": "JORGE ALBERTO LAZZARINI",
+      "email": {},
+      "id": "1fb1f6f9-b056-4f9c-b30d-793887fd6cde"
+    },
+    {
+      "nombre": "Pedro Luz",
+      "email": {},
+      "id": "33488f88-424f-4bb8-949e-55bd0609041b"
+    },
+    {
+      "nombre": "Jose Cucciuffo",
+      "email": {},
+      "id": "4dc70789-a9a2-4da4-88a5-0498365eef55"
+    },
+    {
+      "nombre": "JORGE ALBERTO LAZZARINI",
+      "email": {},
+      "id": "152679e9-4ad6-4ff3-8c13-ebc3aa50c7fa"
+    },
+    {
+      "nombre": "JORGE ALBERTO LAZZARINI",
+      "email": "hombre-pie@compumundomegared.com",
+      "id": "bae59184-01bf-4158-8a04-1feb3edb6f49"
+    },
+    {
+      "nombre": "JORGE ALBERTO LAZZARINI",
+      "email": "hombre-pie@compumundomegared.com",
+      "id": "fe8a9364-8475-4fbd-8ffa-3e24d7d5a957"
     }
   ]
 }
